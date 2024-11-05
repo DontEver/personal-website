@@ -4,9 +4,28 @@ title: "Projects"
 permalink: /projects/
 ---
 
-## My Projects at Ohio State University
+## My Projects and Coursework at Ohio State University
 
-Here’s a collection of projects I’ve worked on as part of my coursework in Software 1 (CSE 2221) and Software 2 (CSE 2231) at Ohio State University. Each project represents a challenge in problem-solving and coding, applying concepts from object-oriented programming to data structures and algorithms.
+Here’s a collection of projects and courses I’ve completed as part of my curriculum in Software and Computer Science Engineering at Ohio State University. Each course and project represents a challenge in problem-solving, coding, and applying foundational concepts in both programming and engineering.
+
+---
+
+### Coursework
+
+- **CSE 2221: Software I - Software Components**  
+  Introduction to foundational software engineering principles, focusing on design-by-contract, component-based software, and Java programming. Emphasis on mathematical modeling and problem-solving skills.
+
+- **CSE 2231: Software II - Software Development and Design**  
+  Covers advanced software engineering concepts, including data structures, object-oriented design, and efficient algorithms. Further exploration into Java and software development practices.
+
+- **CSE 1222: Introduction to Computer Programming in C++**  
+  A first course in computer programming using C++, teaching fundamental concepts in coding, control structures, arrays, and functions, with a focus on procedural programming.
+
+- **CSE 1223: Introduction to Computer Programming in Java**  
+  Introductory programming course in Java, focusing on problem-solving and the basics of object-oriented programming, including variables, control statements, and methods.
+
+- **CSE 2451: Advanced C Programming**  
+  Delves into advanced topics in C programming, including pointers, memory management, data structures, and file I/O, with applications to more complex engineering problems.
 
 ---
 
@@ -32,8 +51,6 @@ This course emphasizes software correctness, modularity, and problem-solving, pr
 8. **Project 8: Cryptographic Utilities** - This project explores number-theoretic methods central to cryptography, including modular arithmetic and prime testing, with applications in RSA public-key encryption. Students implement utility methods for cryptographic computations and gain experience with `NaturalNumber` operations, supported by JUnit testing. The project introduces concepts such as Fermat’s little theorem and probabilistic prime testing, essential for modern cryptography. [GitHub Link](https://github.com/DontEver/CSE-2221/tree/main/Project%2008/CryptoUtilities)
 9. **Project 9: String Reassembly** - This project involves reassembling long sequences from overlapping string fragments, simulating challenges in computational biology and the Human Genome Project. Students work with `Set` objects and develop algorithms to merge fragments, building familiarity with sequence-reassembly techniques. JUnit testing is used to validate methods, reinforcing test-driven development practices. [GitHub Link](https://github.com/DontEver/CSE-2221/tree/main/Project%2009/StringReassemblyFromFragments)
 10. **Project 10: Glossary** - This project involves designing a component-based application to generate a glossary in HTML format, listing terms with definitions and hyperlinks. The glossary includes a top-level index and individual term pages, with each term linking to other terms in its definition. This project emphasizes independent problem-solving, requiring students to manage file input/output and adhere to strict design constraints, including UI-friendly HTML output. [GitHub Link](https://github.com/DontEver/CSE-2221/tree/main/Project%2010/Glossary)
-
-
 
 ---
 
