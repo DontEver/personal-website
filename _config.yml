@@ -22,9 +22,9 @@ title_separator          : "|"
 subtitle                 : "Exploring Engineering, Computer Science, and Beyond"
 name                     : "Xinci Ma"
 description              : "A peek into my journey and interests in Computer Science and ECE."
-url                      : "https://dontever.github.io"
+url                      : "http://xincima.com/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "DontEver/DontEver.github.io"
+repository               : "DontEver/dontever.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -32,7 +32,7 @@ breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
 copyright                : "© Xinci Ma" #name, defaults to site.title
-copyright_url            : "https://dontever.github.io" #URL, defaults to site.url
+copyright_url            : "http://xincima.com/" #URL, defaults to site.url
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -124,7 +124,7 @@ author:
       url: "mailto:admin@xincima.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://DontEver.github.io"
+      url: "http://xincima.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
