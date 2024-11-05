@@ -121,7 +121,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "admin@xinci.me"
+      url: "mailto:admin@xinci.me"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://DontEver.github.io"
