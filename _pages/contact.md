@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 ---
 
-Have questions or want to get in touch? Fill out the form below to send me a message, or you can reach me directly at [admin@xinci.me](mailto:admin@xinci.me).
+Have questions or want to get in touch? Fill out the form below to send me a message, or you can reach me directly at [admin@xincima.com](mailto:admin@xincima.com).
 
 <form action="https://formspree.io/f/mzzbrzgn" method="POST">
   <label for="name">Your Name:</label>
