@@ -6,7 +6,7 @@ permalink: /projects/
 
 ## My Projects and Coursework at Ohio State University
 
-Here’s a collection of projects and courses I’ve completed as part of my curriculum in Software and Computer Science Engineering at Ohio State University. Each course and project represents a challenge in problem-solving, coding, and applying foundational concepts in both programming and engineering.
+Here’s a collection of projects and courses I’ve completed as part of my curriculum in Software and Computer Science Engineering at The Ohio State University. Each course and project represents a challenge in problem-solving, coding, and applying foundational concepts in both programming and engineering.
 
 ---
 
