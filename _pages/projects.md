@@ -27,9 +27,13 @@ Here’s a collection of projects and courses I’ve completed as part of my cur
 - **CSE 2451: Advanced C Programming**  
   Delves into advanced topics in C programming, including pointers, memory management, data structures, and file I/O, with applications to more complex engineering problems.
 
+- **CSE 2431: Systems II - Introduction to Operating Systems**  
+  Introduction to operating system concepts: process, CPU scheduling, memory management, file system and storage, and multi-threaded programming.
+
 ---
 
 ### Software 1 (CSE 2221): Software Components
+
 This course covers foundational software engineering principles focused on **design-by-contract** and **mathematical modeling**. Students learn component-based software design in Java, exploring topics like basic I/O, control structures, and data representation. Key competencies include:
 
 - **Java Fundamentals**: Core programming concepts and control structures.
@@ -37,9 +41,8 @@ This course covers foundational software engineering principles focused on **des
 - **Data Structures**: Sequences, stacks, queues, and maps.
 - **Tools and Testing**: XMLTree, NaturalNumber components, and JUnit.
 - **GUI Development**: Using Swing and the MVC design pattern.
-  
-This course emphasizes software correctness, modularity, and problem-solving, preparing students for advanced projects.
 
+This course emphasizes software correctness, modularity, and problem-solving, preparing students for advanced projects.
 
 1. **Project 1: Create Your Own Home Page** - This project is an introduction to HTML markup and basic web development using Eclipse. The objectives are to familiarize students with HTML, structured editing in Eclipse, and developing "life-long learning" skills. The task involves creating a personal homepage with various HTML elements, including headings, paragraphs, images, lists, tables, and hyperlinks. Students also learn to validate their HTML using the Markup Validation Service. [GitHub Link](https://github.com/DontEver/CSE-2221/tree/main/Project%2001/HomePage)
 2. **Project 2: Compute Roots Using Newton Iteration** - This project focuses on computing square roots using the Newton iteration method, providing exposure to using `double` variables, `while` loops, and static methods. The program prompts the user to calculate the square root of a number, estimating the root to within a relative error of 0.01%. Users can repeatedly calculate roots or exit the program based on their input. The project is expanded over multiple iterations, each introducing additional requirements such as handling division by zero, user-defined precision, and root types. [GitHub Link](https://github.com/DontEver/CSE-2221/tree/main/Project%2002/Newton)
@@ -55,6 +58,7 @@ This course emphasizes software correctness, modularity, and problem-solving, pr
 ---
 
 ### Software 2 (CSE 2231)
+
 Advanced projects completed in Software 2, focusing on data structures, algorithm design, and more complex problem-solving techniques.
 
 1. **Project 1** - Description and link to be added.
@@ -63,5 +67,6 @@ Advanced projects completed in Software 2, focusing on data structures, algorith
 ---
 
 For the full code and details, visit my GitHub repositories:
+
 - [CSE 2221 Repository](https://github.com/DontEver/CSE-2221)
 - [CSE 2231 Repository](https://github.com/DontEver/CSE-2231)
