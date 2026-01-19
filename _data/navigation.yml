@@ -3,6 +3,8 @@ main:
     url: /about/
   - title: "Projects"
     url: /projects/
+  - title: "Algorithm Visualizer"
+    url: https://algorithm.xinci.me/
   - title: "Resume"
     url: /resume/
   - title: "Contact"
